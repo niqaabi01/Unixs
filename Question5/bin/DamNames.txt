@@ -1,0 +1,209 @@
+Dam: Ngotwane Dam , FSC: 19.033000000000001 , Dam level: 0.867
+Dam: Hartbeespoort Dam , FSC: 186.44 , Dam level: 179.91
+Dam: Bon Accord Dam, FSC: 4.381 , Dam level: 4.511
+Dam: Olifantsnek Dam , FSC: 13.677 , Dam level: 4.501
+Dam: Rietvlei Dam , FSC: 12.25 , Dam level: 
+Dam: Buffelspoort Dam , FSC: 10.183 , Dam level: 7.274
+Dam: Bospoort Dam , FSC: 15.798999999999999 , Dam level: 15.497
+Dam: Lindleyspoort Dam , FSC: 14.208 , Dam level: 0.378
+Dam: Warmbad Dam , FSC: 0.549 , Dam level:  -
+Dam: Roodeplaat Dam , FSC: 41.158000000000001 , Dam level: 40.453000000000003
+Dam: Kosterrivier Dam , FSC: 12.417 , Dam level: 4.245
+Dam: Klipvoor Dam , FSC: 40.734999999999999 , Dam level: 21.33
+Dam: Swartruggens Dam , FSC: 0.475 , Dam level: 0.003
+Dam: Vaalkop Dam , FSC: 51.314999999999998 , Dam level: 
+Dam: Roodekopjes Dam , FSC: 102.33 , Dam level: 35.338000000000001
+Dam: Marico-Bosveld Dam , FSC: 26.963000000000001 , Dam level: 3.86
+Dam: Klein Maricopoort Da , FSC: 7.073 , Dam level: 1.374
+Dam: Kromellenboog Dam , FSC: 8.956 , Dam level: 1.231
+Dam: Molatedi Dam , FSC: 200.79 , Dam level: 13.608000000000001
+Dam: Sehujwane Dam , FSC: 3.614 , Dam level: 2.705
+Dam: Madikwe Dam, FSC: 15.938000000000001 , Dam level: 3.948
+Dam: Pella Dam, FSC: 2.111 , Dam level: 0.803
+Dam: Mokolo Dam , FSC: 145.37 , Dam level: 112.02
+Dam: Doorndraai Dam , FSC: 43.764000000000003 , Dam level: 31.545000000000002
+Dam: Glen Alpine Dam , FSC: 18.888999999999999 , Dam level: 1.99
+Dam: Nzhelele Dam , FSC: 51.234000000000002 , Dam level: 16.879000000000001
+Dam: Luphephe Dam , FSC: 13.984 , Dam level: 1.718
+Dam: Nwanedzi Dam , FSC: 5.144 , Dam level: 1.967
+Dam: Mutshedzi Dam , FSC: 2.336 , Dam level: 0.704
+Dam: Albasini Dam , FSC: 28.199000000000002 , Dam level: 19.521999999999998
+Dam: Vondo Dam , FSC: 30.446999999999999 , Dam level: 19.187000000000001
+Dam: Nandoni Dam , FSC: 166.11 , Dam level: 109.88
+Dam: Witbank Dam , FSC: 104.02 , Dam level: 54.295999999999999
+Dam: Middelburg Dam , FSC: 48.055999999999997 , Dam level: 27.399000000000001
+Dam: Bronkhorstspruit Dam , FSC: 56.994 , Dam level: 36.826000000000001
+Dam: Rust Der Winter Dam , FSC: 28.186 , Dam level: 16.135000000000002
+Dam: Loskop Dam , FSC: 361.51 , Dam level: 199.27
+Dam: Rhenosterkop Dam , FSC: 204.58 , Dam level: 52.369
+Dam: Tonteldoos Dam , FSC: 0.189 , Dam level: 0.19
+Dam: Vlugkraal Dam , FSC: 0.443 , Dam level: 0.293
+Dam: Buffelskloof Dam , FSC: 5.244 , Dam level: 1.555
+Dam: De Hoop Dam, FSC: 348.7 , Dam level: 321.74
+Dam: Flag Boshielo Dam , FSC: 185.13 , Dam level: 74.352999999999994
+Dam: Ohrigstad Dam , FSC: 13.448 , Dam level: 1.012
+Dam: Blyderivierpoort Dam , FSC: 54.369 , Dam level: 27.195
+Dam: Klaserie Dam , FSC: 5.604 , Dam level: 2.748
+Dam: Tours Dam , FSC: 6.084 , Dam level: 1.95
+Dam: Ebenezer Dam , FSC: 69.138999999999996 , Dam level: 48.652999999999999
+Dam: Hans Merensky Dam , FSC: 1.225 , Dam level: 1.102
+Dam: Magoebaskloof Dam , FSC: 4.84 , Dam level: 4.84
+Dam: Vergelegen Dam , FSC: 0.254 , Dam level: 0.249
+Dam: Tzaneen Dam , FSC: 156.53 , Dam level: 46.822000000000003
+Dam: Dap Naude Dam , FSC: 1.936 , Dam level: 1.602
+Dam: Middel-Letaba Dam , FSC: 171.93 , Dam level: 43.645000000000003
+Dam: Nsami Dam , FSC: 21.873999999999999 , Dam level: 3.152
+Dam: Vaal Dam , FSC: 2603.4499999999998 , Dam level: 1265.27
+Dam: Grootdraai Dam , FSC: 349.53 , Dam level: 224.02
+Dam: Boskop Dam , FSC: 21.026 , Dam level: 14.733000000000001
+Dam: Johan Neser Dam , FSC: 5.672 , Dam level: 0
+Dam: Klerkskraal Dam , FSC: 7.922 , Dam level: 3.341
+Dam: Potchefstroom Dam , FSC: 2.027 , Dam level: 
+Dam: Klipdrift Dam , FSC: 13.301 , Dam level: 8.836
+Dam: Elandskuil Dam , FSC: 1.181 , Dam level: 0.087
+Dam: Rietspruit Dam , FSC: 7.275 , Dam level: 0
+Dam: Spitskop Dam , FSC: 57.831000000000003 , Dam level: 16.036999999999999
+Dam: Taung Dam, FSC: 61.366 , Dam level: 50.508000000000003
+Dam: Allemanskraal Dam , FSC: 174.52 , Dam level: 23.504000000000001
+Dam: Erfenis Dam , FSC: 206.06 , Dam level: 
+Dam: Tierpoort Dam , FSC: 33.994999999999997 , Dam level: 0
+Dam: Kalkfontein Dam , FSC: 325.13 , Dam level: 19.309999999999999
+Dam: Rustfontein Dam , FSC: 71.207999999999998 , Dam level: 15.057
+Dam: Krugersdrift Dam , FSC: 71.478999999999999 , Dam level: 4.853
+Dam: Groothoek Dam , FSC: 11.904999999999999 , Dam level: 0
+Dam: Koppies Dam , FSC: 42.311 , Dam level: 16.488
+Dam: Sterkfontein Dam , FSC: 2616.9 , Dam level: 2306.33
+Dam: Saulspoort Dam , FSC: 15.675000000000001 , Dam level: 15.428000000000001
+Dam: Fika-Patso Dam , FSC: 29.411000000000001 , Dam level: -
+Dam: Vaalharts Storage Weir  , FSC: 50.682000000000002 , Dam level: 37.737000000000002
+Dam: Bloemhof Dam , FSC: 1240.24 , Dam level: 191.75
+Dam: Douglas Storage Weir  , FSC: 16.245000000000001 , Dam level: 17.276
+Dam: Sterkspruit Dam , FSC: 9.473000000000001 , Dam level: 
+Dam: Katse Dam , FSC: 1519.1 , Dam level: 969.52
+Dam: Mohale Dam , FSC: 857.1 , Dam level: 229.08
+Dam: Egmont Dam , FSC: 9.058999999999999 , Dam level: 1.996
+Dam: Armenia Dam , FSC: 12.957000000000001 , Dam level: 1.295
+Dam: Welbedacht Dam , FSC: 9.592 , Dam level: 9.352
+Dam: Knellpoort Dam , FSC: 130 , Dam level: 42.094000000000001
+Dam: Gariep Dam , FSC: 5196.04 , Dam level: 2802.74
+Dam: Vanderkloof Dam , FSC: 3171.3 , Dam level: 1806.13
+Dam: Disaneng Dam , FSC: 14.125 , Dam level: 4.83
+Dam: Setumo Dam , FSC: 20.718 , Dam level: 8.634
+Dam: Boegoeberg Dam , FSC: 19.815000000000001 , Dam level: 18.529
+Dam: Bulshoek Dam , FSC: 4.809 , Dam level: 3.125
+Dam: Clanwilliam Dam , FSC: 122.48 , Dam level: 25.170999999999999
+Dam: Karee Dam , FSC: 0.949 , Dam level: 0.16
+Dam: Voelvlei Dam , FSC: 158.58000000000001 , Dam level: 35.231000000000002
+Dam: Wemmershoek Dam, FSC: 58.71 , Dam level: 30.68
+Dam: Misverstand Dam , FSC: 6.439 , Dam level: 5.716
+Dam: Berg River Dam  , FSC: 127.05 , Dam level: 39.450000000000003
+Dam: Steenbras Dam Lower  , FSC: 33.880000000000003 , Dam level: 16.280999999999999
+Dam: Eikenhof Dam , FSC: 28.856000000000002 , Dam level: 15.675000000000001
+Dam: Steenbras Dam - Upper  , FSC: 31.811 , Dam level: 19.081
+Dam: Debe Dam, FSC: 6.331 , Dam level: 5.502
+Dam: De Bos Dam , FSC: 5.735 , Dam level: 4.091
+Dam: Brandvlei Dam , FSC: 286.04000000000002 , Dam level: 70.819000000000003
+Dam: Stettynskloof Dam , FSC: 14.747 , Dam level: 6.43
+Dam: Ceres Dam, FSC: 17.25 , Dam level: 
+Dam: Roode Els Berg Dam , FSC: 7.727 , Dam level: 2.431
+Dam: Lakenvallei Dam , FSC: 10.263999999999999 , Dam level: 8.970000000000001
+Dam: Poortjieskloof Dam , FSC: 9.720000000000001 , Dam level: 7.804
+Dam: Pietersfontein Dam , FSC: 1.984 , Dam level: 1.71
+Dam: Keerom Dam , FSC: 9.75 , Dam level: 6.784
+Dam: Klipberg Dam , FSC: 1.978 , Dam level: 1.278
+Dam: Kwaggaskloof Dam , FSC: 169.41 , Dam level: 46.241999999999997
+Dam: Theewaterskloof Dam , FSC: 479.26 , Dam level: 188.66
+Dam: Elandskloof Dam , FSC: 10.993 , Dam level: 4.669
+Dam: Buffeljags Dam , FSC: 4.543 , Dam level: 4.417
+Dam: Duiwenhoks Dam , FSC: 6.18 , Dam level: 
+Dam: Korentepoort Dam , FSC: 8.092 , Dam level: 7.775
+Dam: Prinsrivier Dam , FSC: 2.258 , Dam level: 0.689
+Dam: Bellair Dam , FSC: 4.241 , Dam level: 3.321
+Dam: Floriskraal Dam , FSC: 48.265999999999998 , Dam level: 3.826
+Dam: Miertjieskraal Dam , FSC: 1.517 , Dam level: 
+Dam: Calitzdorp Dam , FSC: 4.817 , Dam level: 4.231
+Dam: Leeugamka Dam , FSC: 13.584 , Dam level: 2.266
+Dam: Oukloof Dam , FSC: 4.19 , Dam level: 2.246
+Dam: Gamka Dam , FSC: 1.82 , Dam level: 0.89
+Dam: Gamkapoort Dam , FSC: 36.234000000000002 , Dam level: 4.36
+Dam: Kammanassie Dam , FSC: 34.353999999999999 , Dam level: 27.436
+Dam: Stompdrift Dam , FSC: 49.579000000000001 , Dam level: 26.704000000000001
+Dam: Hartebeestkuil Dam , FSC: 7.133 , Dam level: 4.905
+Dam: Klipheuwel Dam , FSC: 4.45 , Dam level: 3.783
+Dam: Ernest Robertson Dam  , FSC: 0.415 , Dam level: 0.387
+Dam: Wolwedans Dam , FSC: 24.626000000000001 , Dam level: 23.504999999999999
+Dam: Garden Route Dam , FSC: 9.978999999999999 , Dam level: 9.038
+Dam: Roodefontein Dam , FSC: 1.99 , Dam level: 1.902
+Dam: Kromrivier Dam , FSC: 35.24 , Dam level: 30.285
+Dam: Impofu Dam , FSC: 105.76 , Dam level: 98.972999999999999
+Dam: Beervlei Dam , FSC: 85.778999999999996 , Dam level: 1.329
+Dam: Kouga Dam , FSC: 125.91 , Dam level: 102.51
+Dam: Haarlem Dam , FSC: 4.603 , Dam level: 3.342
+Dam: Loerie Dam , FSC: 3.026 , Dam level: 0.668
+Dam: Groendal Dam , FSC: 11.638 , Dam level: 10.491
+Dam: Nqweba (V. Rynevelds)  , FSC: 44.718000000000004 , Dam level: 18.954999999999998
+Dam: Darlington Dam , FSC: 180.83 , Dam level: 36.057000000000002
+Dam: Grassridge Dam , FSC: 46.19 , Dam level: 23.413
+Dam: Kommandodrift Dam , FSC: 55.87 , Dam level: 35.954000000000001
+Dam: Elandsdrift Dam , FSC: 3.546 , Dam level: 0.459
+Dam: De Mistkraal Dam, FSC: 2.053 , Dam level: 1.824
+Dam: Katrivier Dam , FSC: 24.681999999999999 , Dam level: 23.207000000000001
+Dam: Sandile Dam , FSC: 29.655999999999999 , Dam level: 25.172999999999998
+Dam: Binfield Dam , FSC: 36.848999999999997 , Dam level: 35.601999999999997
+Dam: Laing Dam , FSC: 18.904 , Dam level: 18.399000000000001
+Dam: Rooikrantz Dam , FSC: 4.799 , Dam level: 4.602
+Dam: Bridle Drift Dam, FSC: 97.923000000000002 , Dam level: 83.456000000000003
+Dam: Nahoon Dam , FSC: 19.247 , Dam level: 13.074999999999999
+Dam: Macubeni Dam, FSC: 3.373 , Dam level: 3.307
+Dam: Xonxa Dam , FSC: 115.86 , Dam level: 115.86
+Dam: Lubisi Dam , FSC: 158 , Dam level: 105.1
+Dam: Doornrivier Dam , FSC: 17.099 , Dam level: 9.83
+Dam: Boesmanskrantz Dam, FSC: 4.818 , Dam level: 4.169
+Dam: Waterdown Dam , FSC: 37.441000000000003 , Dam level: 33.746000000000002
+Dam: Oxkraal Dam , FSC: 14.829000000000001 , Dam level: 7.231
+Dam: Ncora Dam , FSC: 147.28 , Dam level: 107.52
+Dam: Tsojana Dam, FSC: 12.272 , Dam level: 12.233000000000001
+Dam: Gubu Dam , FSC: 8.504 , Dam level: 8.119999999999999
+Dam: Wriggleswade Dam , FSC: 91.471000000000004 , Dam level: 90.274000000000001
+Dam: Gcuwa Dam , FSC: 0.601 , Dam level: 0.588
+Dam: Xilinxa Dam , FSC: 13.823 , Dam level: 3.765
+Dam: Toleni Dam, FSC: 0.177 , Dam level: 
+Dam: Mabeleni Dam , FSC: 2.099 , Dam level: 2.078
+Dam: Corana Dam , FSC: 0.754 , Dam level: 0.22
+Dam: Belfort Dam, FSC: 0.413 , Dam level: 0.405
+Dam: Ntenetyana Dam, FSC: 1.512 , Dam level: 0.61
+Dam: Nqadu Dam, FSC: 1.274 , Dam level: 0.627
+Dam: Mlanga Dam, FSC: 1.597 , Dam level: 0.181
+Dam: Midmar Dam , FSC: 235.42 , Dam level: 107.88
+Dam: Nagle Dam , FSC: 23.236000000000001 , Dam level: 17.294
+Dam: Albert Falls Dam, FSC: 288.14 , Dam level: 104.92
+Dam: Inanda Dam , FSC: 237.4 , Dam level: 186.14
+Dam: Hazelmere Dam , FSC: 17.675999999999998 , Dam level: 5.874
+Dam: Spioenkop Dam , FSC: 270.64 , Dam level: 171.72
+Dam: Driel Barrage , FSC: 8.694000000000001 , Dam level: 8.291
+Dam: Woodstock Dam , FSC: 373.25 , Dam level: 287.63
+Dam: Craigie Burn Dam, FSC: 22.466000000000001 , Dam level: 14.663
+Dam: Mearns Dam , FSC: 5.163 , Dam level: 3.238
+Dam: Spring Grove Dam, FSC: 139.19999999999999 , Dam level: 118.04
+Dam: Ntshingwayo Dam , FSC: 194.56 , Dam level: 108.05
+Dam: Zaaihoek Dam , FSC: 184.63 , Dam level: 107.94
+Dam: Wagendrift Dam , FSC: 55.9 , Dam level: 56.11
+Dam: Goedertrouw Dam , FSC: 301.26 , Dam level: 72.899000000000001
+Dam: Klipfontein Dam , FSC: 18.085999999999999 , Dam level: 3.426
+Dam: Hluhluwe Dam , FSC: 25.893000000000001 , Dam level: 4.596
+Dam: Pongolapoort Dam , FSC: 2267.0700000000002 , Dam level: 1046.9100000000001
+Dam: Jericho Dam , FSC: 59.273000000000003 , Dam level: 44.636000000000003
+Dam: Westoe Dam , FSC: 60.094999999999999 , Dam level: 29.045999999999999
+Dam: Morgenstond Dam , FSC: 99.988 , Dam level: 52.558999999999997
+Dam: Heyshope Dam , FSC: 444.94 , Dam level: 391.2
+Dam: Nooitgedacht Dam , FSC: 78.343000000000004 , Dam level: 50.543999999999997
+Dam: Vygeboom Dam , FSC: 78.02 , Dam level: 51.295000000000002
+Dam: Driekoppies Dam , FSC: 250.92 , Dam level: 109.74
+Dam: Maguga Dam, FSC: 333.75 , Dam level: 98.8
+Dam: Longmere Dam , FSC: 4.202 , Dam level: 2.537
+Dam: Klipkopjes Dam , FSC: 11.776999999999999 , Dam level: 5.379
+Dam: Witklip Dam , FSC: 12.519 , Dam level: 4.926
+Dam: Primkop Dam , FSC: 1.899 , Dam level: 0.278
+Dam: Kwena Dam , FSC: 158.88999999999999 , Dam level: 76.644000000000005
+Dam: Da Gama Dam, FSC: 13.526 , Dam level: 7.826
+Dam: Inyaka Dam , FSC: 123.66 , Dam level: 78.468000000000004
